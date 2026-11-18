@@ -1,3 +1,13 @@
-# Projeto Integral FATEC - ManageCloud
+# ☁️ Projeto Integral FATEC
 
-Link do site: https://managecloud.com.br/
+## ManageCloud
+
+Projeto desenvolvido como parte das atividades acadêmicas da FATEC.
+
+### 🌐 Acesse o projeto
+
+[**Clique aqui para acessar o ManageCloud**](https://managecloud.com.br/)
+
+---
+
+📚 Projeto acadêmico | FATEC
